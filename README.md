@@ -1,16 +1,26 @@
-### Hi there 👋
+# Olá, eu sou o Vinicius Becaleti!
 
-<!--
-**viniciusbecaleti/viniciusbecaleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Sou um entusiasta da programação com experiência no desenvolvimento web, focado em tecnologias front-end e back-end. Comecei minha jornada aos 14 anos e desde então venho aprimorando minhas habilidades de programação.
 
-Here are some ideas to get you started:
+🔍 Busco oportunidades desafiadoras no campo de desenvolvimento de software, onde posso aplicar minha paixão pela programação e contribuir para projetos inovadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Hard Skills
+
+- Linguagens: HTML5, CSS3, JavaScript ES6+, TypeScript
+- Frameworks: React JS, Next JS
+- Back-End: Node JS, Fastify
+- ORM's: Sequelize, Prisma
+- Query Builder: Knex JS   
+- Banco de Dados: MySQL, MariaDB, PostgreSQL, MongoDB
+- Conhecimento em Segurança Cibernética
+
+🤝 Soft Skills
+
+- Pensamento analítico e resolução de problemas
+- Trabalho em equipe para colaborar em projetos multidisciplinares
+- Curiosidade para explorar e descobrir tendências
+- Foco em detalhes para garantir qualidade e código limpo
+
+🚀 Estou sempre em busca de desafios empolgantes e oportunidades de aprendizado contínuo. Vamos conectar e explorar o mundo dos dados juntos!
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/viniciusbecaleti/)
