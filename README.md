@@ -22,6 +22,6 @@
 - Curiosidade para explorar e descobrir tendências
 - Foco em detalhes para garantir qualidade e código limpo
 
-🚀 Estou sempre em busca de desafios empolgantes e oportunidades de aprendizado contínuo. Vamos conectar e explorar o mundo dos dados juntos!
+🚀 Estou sempre em busca de desafios empolgantes e oportunidades de aprendizado contínuo.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/viniciusbecaleti/)
