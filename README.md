@@ -2,7 +2,7 @@
 
 👋 Sou um entusiasta da programação com experiência no desenvolvimento web, focado em tecnologias front-end e back-end. Comecei minha jornada aos 14 anos e desde então venho aprimorando minhas habilidades de programação.
 
-🔍 Busco oportunidades desafiadoras no campo de desenvolvimento de software, onde posso aplicar minha paixão pela programação e contribuir para projetos inovadores.
+🔍 Busco oportunidades desafiadoras no campo de desenvolvimento full stack, onde posso aplicar minha paixão pela programação e contribuir para projetos inovadores.
 
 🛠️ Hard Skills
 
