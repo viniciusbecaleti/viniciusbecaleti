@@ -6,10 +6,11 @@
 
 🛠️ Hard Skills
 
-- Linguagens: HTML5, CSS3, JavaScript ES6+, TypeScript
-- Frameworks: React JS, Next JS
+- Linguagem: HTML5, CSS3, JavaScript ES6+, TypeScript
+- Biblioteca: React JS, Vue JS
+- Framework: Next JS
 - Back-End: Node JS, Fastify
-- ORM's: Sequelize, Prisma
+- ORM: Sequelize, Prisma
 - Query Builder: Knex JS   
 - Banco de Dados: MySQL, MariaDB, PostgreSQL, MongoDB
 - Conhecimento em Segurança Cibernética
